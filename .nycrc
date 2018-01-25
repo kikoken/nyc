@@ -1,0 +1,13 @@
+{
+  "include": [
+    "app/**/*.js",
+    "server.js"
+  ],
+  "reporter": [
+    "text",
+    "lcov"
+  ],
+  "cache": true,
+  "sourceMap": false,
+  "all": true
+}
