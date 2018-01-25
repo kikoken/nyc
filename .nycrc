@@ -1,7 +1,6 @@
 {
   "include": [
-    "app/**/*.js",
-    "server.js"
+    "app/**/*.js"
   ],
   "reporter": [
     "text",

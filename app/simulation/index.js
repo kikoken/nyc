@@ -1,10 +1,10 @@
 'use strict'
 
-const simulation = async function (data) {
+const simulation = async (data) => {
   return data
 }
 
-const salute = function (data) {
+const salute = (data) => {
   return `Hola ${data}`
 }
 
